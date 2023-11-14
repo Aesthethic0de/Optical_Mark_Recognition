@@ -1,6 +1,7 @@
 # Optical_Mark_Recognition
 
-![Before](demo.png)
+![Before](image/my4.PNG)
+![After](demo.png)
 
-![After](image/my4.PNG)
+
 
