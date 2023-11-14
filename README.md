@@ -2,5 +2,5 @@
 
 ![Before](demo.png)
 
-![After](image\my4.PNG)
+![After](image/my4.PNG)
 
